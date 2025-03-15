@@ -2,6 +2,12 @@
 
 Este é um projeto desenvolvido como parte da formação em **Lógica de Programação** do **Oracle Next Education**. Ele consiste em um sistema de Amigo Secreto utilizando **HTML, CSS e JavaScript**, permitindo adicionar nomes a uma lista e realizar um sorteio aleatório, exibindo o nome do amigo secreto escolhido.
 
+## Link do Deploy no vercel
+
+```sh
+https://amigo-secreto-peach-mu.vercel.app/
+```
+
 
 ## 🎓 Sobre o ONE
 
