@@ -32,5 +32,13 @@ O **Oracle Next Education (ONE)** é um programa de formação em tecnologia ofe
 - 🎨 **CSS** para estilização.
 - 🧠 **JavaScript** para a lógica do sorteio.
 
+## 🧩 Lógica de Programação e JavaScript
 
+O funcionamento do projeto é baseado na manipulação de arrays e na interação com o DOM usando JavaScript. A lógica principal inclui:
 
+- **Armazenamento dos nomes:** Os nomes dos participantes são armazenados em um array.
+- **Exibição dinâmica:** Sempre que um novo nome é adicionado, ele é inserido na lista visível na tela.
+- **Sorteio Aleatório:** Utilizamos `Math.random()` para selecionar um nome aleatoriamente dentro do array de participantes.
+- **Interatividade:** Manipulamos os elementos HTML com JavaScript, capturando eventos de clique e alterando dinamicamente o conteúdo da página.
+
+Esse projeto reforça conceitos fundamentais de programação, como manipulação de listas, controle de fluxo e funções, essenciais para o desenvolvimento web.
